@@ -7,35 +7,29 @@ export const HERO_CONTENT = `I am a passionate full stack developer with a knack
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
-export const EXPERIENCES = [
+export const EDUCATION = [
   {
     year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    role: "Lovely Professional University",
+    company: "B.Tech in Computer Science",
+    description: `I pursued my Bachelor of Technology in Computer Science at LPU Punjab, a place that not only provided me with a solid foundation in technical knowledge but also encouraged innovative thinking and problem-solving. The college offered a blend of rigorous coursework, hands-on projects, and opportunities for collaboration, all of which were vital in shaping my skills.`,
+    
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "2020 - 2022",
+    role: "Sri Guru Gobind Singh College",
+    company: "Intermediate",
+    description: `I completed my intermediate studies in PCM (Physics, Chemistry, Mathematics) at SGGS Patna, where I built a strong foundation in the core subjects that shaped my analytical and problem-solving abilities.`,
+    
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    year: "2012 - 2020",
+    role: "Mohini Devi Memorial School",
+    company: "High School",
+    description: `I completed my 10th standard at MDMS, where I gained a strong academic foundation and developed key skills that set the stage for my future studies. `,
+    
   },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-  },
+  
 ];
 
 export const PROJECTS = [
